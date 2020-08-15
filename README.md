@@ -1,4 +1,5 @@
+<<<<<<< HEAD
 # LaravelBootCamp101
 
-- Kerim Çağlar / Eskişehir / kcaglarr
-- Sanem Kaçar / Bursa / SanemKacar
+Selin Aygün / Eskişehir / selinaygun
+Sanem Kaçar / Bursa / SanemKacar
