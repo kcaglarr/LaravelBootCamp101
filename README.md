@@ -4,6 +4,7 @@
 - Kerim Çağlar / Eskişehir / kcaglarr
 - Hande Meşeli / Bursa     / handemeseli
 - Görkem Gültekin / Eskişehir / gorke-gultekin
+- Zeynal ALAKUŞ / Bursa / zeynalalakus
 =======
 Selin Aygün / Eskişehir / selinaygun
 Hande Meseli/ BURSA     / handemeseli
